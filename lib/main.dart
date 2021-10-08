@@ -7,6 +7,7 @@ void main() {
   runApp(BlogApp());
 }
 
+// Hello Guys, Today We will build a Blog App using Flutter
 class BlogApp extends StatelessWidget {
   const BlogApp({Key? key}) : super(key: key);
 
@@ -19,7 +20,7 @@ class BlogApp extends StatelessWidget {
         primaryColor: indigo400,
         fontFamily: GoogleFonts.nunito().fontFamily,
       ),
-      home: WelcomeScreen()
+      home: WelcomeScreen(),
     );
   }
 }

@@ -96,7 +96,7 @@ final articles = [
           </div>
         </div>
     """,
-    "thumbnail": "assets/jetpackcompose.jpg",
+    "thumbnail": "assets/jetpackcompose.png",
     "date": "October 2, 2021"
   },
   {
@@ -130,7 +130,7 @@ final articles = [
             </div>
         </div>
     """,
-    "thumbnail": "assets/postman.jpg",
+    "thumbnail": "assets/postman.png",
     "date": "September 30, 2021"
   }
 ];
